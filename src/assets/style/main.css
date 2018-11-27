@@ -1,0 +1,16 @@
+/* body{
+    height: 700px;
+    background:red url('../img/1.jpg') no-repeat center center;
+} */
+
+@font-face{
+    font-family:'my';
+    src: url('../fonts/qtzkklt.woff.ttf')
+}
+
+body{
+    font-family: 'my';
+}
+.ot{
+    background-color: yellow;
+}

@@ -1,0 +1,16 @@
+{
+    "presets": [
+        "env",
+        "react"
+    ],
+    "plugins":[
+        "transform-object-rest-spread",
+        [
+            "import",
+            {
+                "libraryName": "antd",
+                "style": "css"
+            }
+        ]
+    ]
+}
